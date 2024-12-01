@@ -1,0 +1,68 @@
+.global-div {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 50px;
+  margin-top: 40px;
+  /* gap: 60px; */
+
+  /* background: red; */
+}
+
+.item-div {
+  /* flex: 1;
+  margin: 0 10px; */
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 240px;
+  /* width: 150px; */
+  /* height: 150px; */
+}
+
+/* .item1 {
+  color: white;
+  font-weight: bold;
+  font-size: 52px;
+} */
+/*
+.item-div:last-child {
+  padding-right: 0;
+} */
+/* 
+className="row"
+style={{
+  display: "flex",
+  justifyContent: "center",
+}} */
+
+/* style={{
+    color: "white",
+    fontWeight: "bold",
+    fontSize: "52px",
+  }} */
+
+/* className="row" style={{ color: "white" }} */
+
+/* style={{
+    color: "#09891D",
+    fontWeight: "bold",
+    fontSize: "52px",
+    display: "flex",
+    alignItems: "center",
+    //   background: "red",
+  }} */
+
+/* style={{
+    width: "48px",
+    height: "30px",
+    fontFamily: "Poppins",
+    fontStyle: "normal",
+    fontWeight: "400",
+    fontSize: "20px",
+    lineHeight: "150%",
+    color: "#A7A3A2",
+  }} */

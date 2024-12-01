@@ -1,0 +1,27 @@
+// .nav-link.active {
+//   background-color: #fcf2ee;
+// }
+
+.tab-container {
+  height: 400px;
+  overflow-y: auto;
+}
+
+.modalTitle {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.tab-container::-webkit-scrollbar {
+  width: 0.3rem;
+}
+
+// .tab-container::-webkit-scrollbar-track {
+//   background: white;
+// }
+
+.tab-container::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 2px;
+}

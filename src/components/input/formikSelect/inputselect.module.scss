@@ -1,0 +1,31 @@
+.divSelect {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px;
+  // gap: 4px;
+  min-height: 68px;
+}
+
+.labelSelect {
+  height: 24px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+.select {
+  box-sizing: border-box;
+
+  width: 350px;
+  height: 44px;
+
+  background: #f9fbfb;
+
+  border: 1px solid #94a3b8;
+  border-radius: 8px;
+}

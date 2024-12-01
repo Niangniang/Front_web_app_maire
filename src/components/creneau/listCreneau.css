@@ -1,0 +1,28 @@
+.custom-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.custom-table td,
+.custom-table th {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.custom-table th {
+  background-color: lightgray;
+}
+
+.custom-table td:first-child,
+.custom-table th:first-child {
+  border-left: none;
+}
+
+.custom-table tr:first-child th {
+  border-top: none;
+}
+
+.custom-table tr td {
+  border-top: none;
+}

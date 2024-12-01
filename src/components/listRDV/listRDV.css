@@ -1,0 +1,60 @@
+.grestion-rv {
+  text-align: center;
+  font-weight: bold;
+  margin-left: 260px;
+  margin-bottom: 100px;
+  margin-top: 162px;
+  /* background: red; */
+  padding: 20px;
+}
+
+.div-header {
+  margin-top: 50px;
+  margin-bottom: 40px;
+  /* background: blue; */
+  padding: 20px;
+}
+
+.div-end {
+  display: flex;
+  padding: 1px;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.div-end-item {
+  display: flex;
+  padding: 2px;
+  justify-content: space-between;
+  gap: 5px;
+  background: #f9f9f9;
+  border-radius: 10px;
+}
+.custom-datatable {
+  border: none;
+  margin-top: 0px;
+}
+
+.column-names-row {
+  background-color: #fbe7c6; /* Couleur de fond personnalisée pour la ligne des noms de colonnes */
+}
+
+.line-top {
+  background: #e7e7e7;
+  height: 50px;
+  align-items: center;
+  display: flex;
+  justify-content: "space-between";
+  gap: 10px;
+  margin-bottom: "0px";
+}
+
+.custom-datatable .rdt_TableHeadRow {
+  background-color: #e7e7e7; /* Couleur de fond de la ligne supérieure */
+  color: #000000;
+  margin-top: 20px;
+  text-align: "center";
+
+  /* border: 1px solid #cbcbcb; */
+  /* box-shadow: "0px 0px 5px rgba(0, 0, 0, 0.3)"; */
+}

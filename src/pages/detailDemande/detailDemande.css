@@ -1,0 +1,29 @@
+.custom-fieldset {
+  border: 1px solid #ccc;
+  border-radius: 18px;
+  padding: 10px;
+  margin-top: 30px;
+  position: relative;
+}
+
+.custom-legend-container {
+  position: absolute;
+  top: -15px; /* Adjust the positioning as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: white;
+  padding: 0 5px;
+}
+
+.custom-legend {
+  color: #923b1d;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+.horizontal-line {
+  width: 100%; /* Modifier la longueur de la ligne, par exemple 50% de la largeur du conteneur parent */
+  height: 2px; /* Modifier l'épaisseur de la ligne en pixels */
+  border: none; /* Supprimer toute bordure par défaut de la ligne */
+  background-color: black; /* Modifier la couleur de la ligne, par exemple en noir */
+}

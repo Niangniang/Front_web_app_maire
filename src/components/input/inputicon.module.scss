@@ -1,0 +1,22 @@
+.inputIcons {
+  /* background-color: red; */
+  display: flex;
+  /* width: fit-content; */
+}
+
+.icon {
+  position: relative;
+  top: 6px;
+  z-index: 2;
+}
+
+.inputField {
+  position: relative;
+
+  height: 40px;
+  right: 20px;
+  padding-left: 30px;
+  background: #ffffff;
+  border: 1px solid #efefef;
+  border-radius: 3px;
+}

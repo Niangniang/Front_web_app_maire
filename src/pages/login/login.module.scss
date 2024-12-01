@@ -1,0 +1,82 @@
+.loginPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.loginBox {
+  /* margin: 130px 50px 63px; */
+  max-width: 474px;
+  max-height: 555px;
+  background: #ffffff;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  padding: 10px 32px 50px;
+}
+
+.loginHeader {
+  h4 {
+    max-height: 54px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+
+    text-align: center;
+
+    color: #000000;
+  }
+}
+.brownBar {
+  width: 134px;
+  height: 4px;
+  margin: auto;
+  background: #923b1d;
+  border-radius: 10px;
+}
+.myForm {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  gap: 25px;
+}
+
+.changePassword {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 16px;
+  background: #923b1d;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.simpleButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 26px;
+  gap: 10px;
+  color: white;
+  background: #923b1d;
+  border-radius: 4px;
+  border: 0;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.disabledButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 26px;
+  gap: 10px;
+  color: white;
+  background: grey;
+  border-radius: 4px;
+  border: 0;
+  width: 100%;
+  margin-top: 10px;
+}

@@ -1,0 +1,39 @@
+.icon_end {
+  background: #e7eafb;
+  /* width: 26px;
+  height: 26px; */
+
+  padding: 3px 3px 3px 3px;
+  align-items: center;
+  border-radius: "6px";
+}
+.content {
+  margin-top: 20px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding: 20px 20px 20px 20px;
+}
+.title {
+  margin-top: 40px;
+}
+
+.custom-datatable {
+  padding: 10px 20px 10px 20px;
+
+  /* background: red; */
+  /* box-shadow: "0px 0px 5px rgba(0, 0, 0, 0.3)"; */
+}
+
+.custom-datatable .rdt_TableHeadRow {
+  background-color: #000000; /* Couleur de fond de la ligne supérieure */
+  color: #ffffff;
+  margin-top: 20px;
+
+  /* border: 1px solid #cbcbcb; */
+  /* box-shadow: "0px 0px 5px rgba(0, 0, 0, 0.3)"; */
+}
+
+/* .custom-datatable-container {
+  /* border: 1px solid #000000; Bordure de la DataTable 
+} */

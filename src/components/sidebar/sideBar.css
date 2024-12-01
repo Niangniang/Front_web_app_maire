@@ -1,0 +1,74 @@
+.sidebar {
+  padding: 7px 16px 35px;
+  width: 300px;
+  border-radius: 0px;
+  /* background: blueviolet; */
+  border: 0.5px solid #ebebeb;
+}
+.navigation {
+  margin-bottom: 50px;
+}
+
+.logo {
+  width: 365px;
+  height: 100px;
+  margin-bottom: 15px;
+}
+header {
+  margin-bottom: 16px;
+  color: #923b1d;
+}
+.tab_board1 {
+  display: flex;
+  align-items: center;
+  padding-left: 29px;
+  gap: 17px;
+  width: 250px;
+  height: 68px;
+  background: #f8f8f8;
+  border-radius: 10px;
+  margin-bottom: 34px;
+  margin-bottom: 15px;
+}
+.myUL {
+  display: flex;
+  flex-direction: column;
+  padding-left: 27px;
+  row-gap: 18px;
+}
+.myLI {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.myA {
+  display: flex;
+  gap: 24px;
+  color: inherit;
+  text-decoration: none;
+}
+.modules {
+  display: flex;
+  flex-direction: column;
+}
+.ma-menu {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  padding: 16px 16px 0px 27px;
+}
+.ma-menu-deroulante {
+  display: flex;
+  gap: 24px;
+  border-radius: 10px;
+}
+.my-li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-left: 36px;
+}
+/* .menu-couleur {
+  border-radius: 30px;
+  border-radius: 10px 20px 30px 40px;
+} */

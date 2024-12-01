@@ -1,0 +1,29 @@
+.divInput {
+  display: flex;
+  flex-direction: column;
+  label {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+  }
+
+  input {
+    width: 350px;
+    height: 51px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    background: #ffffff;
+    /* box-shadow 1 */
+    border: none;
+    box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    ////////////////////   placehorder
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 132.02%;
+    letter-spacing: 0.005em;
+    color: #000000;
+  }
+}
